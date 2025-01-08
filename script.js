@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "UHU!!!!!!!";
+  question.innerHTML = "Ótima escolha! 🥰";
   gif.src =
     "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2U2ejIweG9yNzQ4b2hsN3R5ZTludjRzYzZpZjJ4bmRjY3Jkc2Z0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdRwS3UXGtsBVBK/giphy.webp";
 });
